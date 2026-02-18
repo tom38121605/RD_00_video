@@ -2,7 +2,7 @@
 easy
 
 
-1.  win + shife + R
+1.  win + shife + R             （不好用，有时只录了一小半）
 2. 直接用鼠标选择录制屏幕,
 3. 点击start，开始录制
 4. 点击停止按钮，停止录制
@@ -10,8 +10,10 @@ easy
 
 
 
+另一种方法： 
 
-
+1. win + shife + R   
+2. 视频存放目录：C:\Users\hp\Videos\Captures
 
 
 
